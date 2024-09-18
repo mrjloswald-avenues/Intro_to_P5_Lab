@@ -1,4 +1,4 @@
-``// setup runs once when you hit the play button
+// setup runs once when you hit the play button
 // anything between the {} "happens" or "is executed"
 function setup() {
 //functionName(parameters)  can have zero parameters
